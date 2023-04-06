@@ -1,0 +1,13 @@
+name = "ManyIdeas Christmas"
+filename = "ManyIdeasChristmas-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "71bd068990421f788ae7fd757c614ae8db4591af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4173613
+project-id = 736753

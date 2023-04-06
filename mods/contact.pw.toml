@@ -1,0 +1,13 @@
+name = "Contact"
+filename = "Contact-Forge-1.19.2-2.0.0-Beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec1d9d4bde561a0839bfb9f40f6882b2af98151d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3996579
+project-id = 508999

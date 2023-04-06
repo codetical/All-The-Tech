@@ -1,0 +1,13 @@
+{
+	id: "3BF1980AFFE9690E"
+	group: "7E8308DC38836634"
+	order_index: 0
+	filename: "first_things_first"
+	title: "First Things First"
+	icon: "quark:bamboo_sign"
+	default_quest_shape: "diamond"
+	default_hide_dependency_lines: false
+	progression_mode: "linear"
+	quests: [ ]
+	quest_links: [ ]
+}

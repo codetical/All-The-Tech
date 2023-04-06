@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Chef's Delight Compat Datapack"
+filename = "Repurposed_Structures-Chef's_Delight_v1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e9b3a0006481512cb89c2260ff5eefd3017c7404"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4390517
+project-id = 825227

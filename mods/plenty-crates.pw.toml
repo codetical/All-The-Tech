@@ -1,0 +1,13 @@
+name = "Plenty Crates"
+filename = "Plenty Crates-forge-1.19.2-2.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e5678a45ac8c0dea430c4588e901e59b392f8d26"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3996854
+project-id = 669343

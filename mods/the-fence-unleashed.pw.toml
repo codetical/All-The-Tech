@@ -1,0 +1,13 @@
+name = "The Fence Unleashed"
+filename = "TheFenceUnleashed-1.0.2-1.19.2-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "729e45446a7731cc942316c6114b0b37f27691ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4040913
+project-id = 521072

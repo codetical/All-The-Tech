@@ -1,0 +1,13 @@
+name = "BuildPaste"
+filename = "BuildPasteMod-1.19.2v1.9.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe5cc8788f4b215e83eb40db064f25e13a887140"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4025909
+project-id = 432036

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:trident",
+    "blue_skies:soulbound_spear",
+    "blue_skies:bluebright_spear",
+    "blue_skies:starlit_spear",
+    "blue_skies:frostbright_spear",
+    "blue_skies:lunar_spear",
+    "blue_skies:dusk_spear",
+    "blue_skies:maple_spear",
+    "blue_skies:cherry_spear",
+    "tools_complement:iron_knife",
+    "tools_complement:gold_knife",
+    "tools_complement:diamond_knife",
+    "tools_complement:netherite_knife",
+    "tools_complement:copper_knife",
+    "tools_complement:tin_knife",
+    "tools_complement:lead_knife",
+    "tools_complement:silver_knife",
+    "tools_complement:nickel_knife",
+    "tools_complement:bronze_knife",
+    "tools_complement:electrum_knife",
+    "tools_complement:invar_knife",
+    "tools_complement:constantan_knife",
+    "supplementaries:slingshot"
+  ],
+  "incompatible": [
+    "minecraft:riptide"
+  ]
+}

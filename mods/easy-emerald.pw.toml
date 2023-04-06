@@ -1,0 +1,13 @@
+name = "Easy Emerald [FORGE & FABRIC]"
+filename = "Easy Emerald-1.19.2-3.3.6-[FORGE].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ac36be385f87fe1e9eee8488076bbebd4d08462"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3928384
+project-id = 444363

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_feet",
+    "frozenup:hoof_armor",
+    "$minecraft:universal_enchants_horse_armor"
+  ],
+  "incompatible": [
+    "additionaladditions:speed",
+    "minecraft:depth_strider"
+  ]
+}

@@ -1,0 +1,13 @@
+name = "STONEBORN - Dwarven-Fantasy Inspired UI Overhaul"
+filename = "STONEBORN - 1.19 - V3.2.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "15e27888b0a33d2b9e6d2035710299a107b166e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4346484
+project-id = 455845

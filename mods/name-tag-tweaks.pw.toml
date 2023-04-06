@@ -1,0 +1,13 @@
+name = "Name Tag Tweaks"
+filename = "nametagtweaks-1.19.2-3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e8e4d845bd25c23ca33f1097c4cbdc84ca9c8f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4325882
+project-id = 391972

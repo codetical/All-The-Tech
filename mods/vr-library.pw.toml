@@ -1,0 +1,13 @@
+name = "VR Library"
+filename = "vr-library_1.2.0_1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7429093366ba6091639ce5fe792880ff347f4d2d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4030690
+project-id = 622831

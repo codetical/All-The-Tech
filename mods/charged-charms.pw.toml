@@ -1,0 +1,13 @@
+name = "Charged Charms"
+filename = "chargedcharms-1.19-1.7.0.0-FORGE.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6570a4c5fe63b88aae235a8f01eaf255e3bead60"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4020422
+project-id = 682683

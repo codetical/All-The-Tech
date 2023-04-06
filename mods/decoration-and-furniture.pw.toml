@@ -1,0 +1,13 @@
+name = "Decoration and Furniture"
+filename = "Decoration Mod 1.10 (Ver 1.19.2).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce770bc712828165b9d64b9562271f7188a3c68a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4046812
+project-id = 411797

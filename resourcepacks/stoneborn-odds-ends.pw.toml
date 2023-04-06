@@ -1,0 +1,13 @@
+name = "STONEBORN - Odds & Ends"
+filename = "STONEBORN Odds_and_Ends -1.19 - V0.1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d3e5eed00331f562aca0312c04da6804aa96fcc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4345416
+project-id = 700547

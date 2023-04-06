@@ -1,0 +1,13 @@
+name = "STONEBORN - Modded Compatibility GUI - SBMC"
+filename = "STONEBORN-+SBMC+-V3.1-Modded-Compatibility.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5da6400da0ec03fea7a863d88fa0f9e2ab2f55cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4373196
+project-id = 783566

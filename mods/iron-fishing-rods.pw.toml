@@ -1,0 +1,13 @@
+name = "Iron Fishing Rods"
+filename = "Iron Fishing Rods 1.0.0 - 1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "059e83dfa9979d608ee51a8a4977547b59abb4a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4412470
+project-id = 515299

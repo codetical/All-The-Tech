@@ -1,0 +1,13 @@
+name = "Better Clear Water"
+filename = "Better Clear Water 1.19.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0417ee295a403117e2b621a8b6ad447b5adf76ca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3788526
+project-id = 469227

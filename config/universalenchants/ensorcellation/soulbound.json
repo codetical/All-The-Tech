@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:enchantable",
+    "twilightforest:block_and_chain"
+  ],
+  "incompatible": [
+    "minecraft:vanishing_curse"
+  ]
+}

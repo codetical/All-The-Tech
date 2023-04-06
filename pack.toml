@@ -1,0 +1,12 @@
+name = "All The Tech"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "85f74e255430c814f5b1a1c84fe60605a9de23b5d30107740dbd2283191ebb8f"
+
+[versions]
+forge = "43.2.8"
+minecraft = "1.19.2"

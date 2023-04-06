@@ -1,0 +1,13 @@
+name = "Silveroak Outpost"
+filename = "SilveroakOutpost-Forge-1.19.2-2.0.0-Beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2bf442cd550657774c1846f1b2302060e87b3012"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3996439
+project-id = 411725

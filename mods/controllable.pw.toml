@@ -1,0 +1,13 @@
+name = "Controllable"
+filename = "controllable-0.18.0-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cc4999295b0f5516679223a0a09da6dac953b7e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4445137
+project-id = 317269

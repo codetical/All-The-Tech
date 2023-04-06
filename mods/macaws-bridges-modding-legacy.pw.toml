@@ -1,0 +1,13 @@
+name = "Macaw's Bridges - Modding Legacy"
+filename = "mcwbridgesmoddinglegacy-1.19.2-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "206cbb015bb61a09e5baaa7a628a28d355925ca6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4287346
+project-id = 696071

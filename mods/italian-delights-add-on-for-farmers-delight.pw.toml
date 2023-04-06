@@ -1,0 +1,13 @@
+name = "Italian Delight"
+filename = "ItalianDelight-1.19.2 1.5+FIX.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "15e8a2f7b8901b0340690b96c04de40d34d3ee8c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4373950
+project-id = 669167

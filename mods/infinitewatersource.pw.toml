@@ -1,0 +1,13 @@
+name = "Infinite Source (Water)"
+filename = "infinitesource-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3af6be669401ca3127af10d723608f50ae593f60"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4069342
+project-id = 693427

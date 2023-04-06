@@ -1,0 +1,13 @@
+name = "Achieved"
+filename = "Achieved V1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "157c38b01002bdfd766ee05c49bff01edf1a8d8e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4086792
+project-id = 702409

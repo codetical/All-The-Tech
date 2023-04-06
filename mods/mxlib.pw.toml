@@ -1,0 +1,13 @@
+name = "MX Lib"
+filename = "mx_lib-1.19.2-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "226112bc442165ee07a9ccde6fa6a9b6f98e5467"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4075791
+project-id = 529441

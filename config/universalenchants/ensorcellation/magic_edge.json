@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:sword_or_axe",
+    "industrialforegoing:infinity_saw",
+    "industrialforegoing:infinity_hammer",
+    "twilightforest:block_and_chain"
+  ],
+  "incompatible": [
+    "minecraft:sharpness",
+    "minecraft:sweeping",
+    "minecraft:smite",
+    "ensorcellation:damage_illager",
+    "ensorcellation:damage_villager",
+    "minecraft:bane_of_arthropods",
+    "ensorcellation:instigating",
+    "ensorcellation:damage_ender"
+  ]
+}

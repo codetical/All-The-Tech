@@ -1,0 +1,13 @@
+name = "KubeJS Powah"
+filename = "kubejspowah-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f99270dde122cb6c7afb12f45a54acf4c0ebc9c0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4440902
+project-id = 838378

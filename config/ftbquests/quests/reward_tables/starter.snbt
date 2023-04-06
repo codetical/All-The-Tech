@@ -1,0 +1,7 @@
+{
+	id: "302BAED08C918C6E"
+	order_index: 0
+	title: "Starter"
+	loot_size: 1
+	rewards: [{ item: "akashictome:tome" }]
+}

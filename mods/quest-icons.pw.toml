@@ -1,0 +1,13 @@
+name = "Quest Icons"
+filename = "questsicons-0.0.2-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "03ac40f6137a0ef2583491e68652061ae480a3be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4175283
+project-id = 690531

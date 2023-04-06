@@ -1,0 +1,13 @@
+name = "ManyIdeas Doors"
+filename = "ManyIdeasDoors-1.19.2-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "22411def55ce2bf21d7b7d5af7bbf007bf618bf7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3932571
+project-id = 433643

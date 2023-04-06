@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Yung's Better Nether Fortress Compat Datapack"
+filename = "Repurposed_Structures-Better_Nether_Fortress_v3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1419d1cbad73efb9f1db1198b489fd87e00794b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4448786
+project-id = 837728

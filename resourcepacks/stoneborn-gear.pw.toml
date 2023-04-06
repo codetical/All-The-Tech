@@ -1,0 +1,13 @@
+name = "STONEBORN - Dwarven-Fantasy Inspired Gear Overhaul"
+filename = "STONEBORN Gear-LOW_EYES-1.19 - V2.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f1f482c0df1b070e9f616c731b93cafbe7c69caf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3876447
+project-id = 537217

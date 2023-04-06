@@ -1,0 +1,11 @@
+{
+	id: "352C9550195DC32D"
+	group: "7E8308DC38836634"
+	order_index: 1
+	filename: "step_2"
+	title: "Step 2"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+	quest_links: [ ]
+}

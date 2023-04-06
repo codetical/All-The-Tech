@@ -1,0 +1,11 @@
+{
+	id: "465B276A509F2F33"
+	group: ""
+	order_index: 0
+	filename: "ppp"
+	title: "ppp"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+	quest_links: [ ]
+}

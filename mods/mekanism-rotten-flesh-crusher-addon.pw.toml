@@ -1,0 +1,13 @@
+name = "Mekanism Rotten Flesh Crusher Conversion"
+filename = "MekanismRottenFlesh-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "939a2b33fe7b345ed453489e34573a6a8615f6c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4134203
+project-id = 466766
